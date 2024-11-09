@@ -22,6 +22,15 @@
   font-size: calc(10px + 2vmin);
 }
 
+.Mid-text {
+  font-weight: bold;
+  box-shadow: violet;
+  
+}
+.Mid-text:hover {
+  color: rgb(112, 76, 182);
+}
+
 .App-link {
   color: rgb(112, 76, 182);
 }
