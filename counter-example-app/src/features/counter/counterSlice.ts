@@ -1,5 +1,3 @@
-// This file demonstrates typical usage of Redux Toolkit's createSlice function
-// for defining reducer logic and actions, as well as related thunks and selectors.
 
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit"
 import type { PayloadAction } from "@reduxjs/toolkit"
